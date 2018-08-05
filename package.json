@@ -16,7 +16,7 @@
   "dependencies": {
     "castv2": "^0.1.6",
     "lodash": "^4.13.1",
-    "mdns-js": "^0.5.3"
+    "node-mdns-easy": "github:dcpesses/node-mdns-easy"
   },
   "devDependencies": {
     "babel-eslint": "^7.0.0",

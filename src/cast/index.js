@@ -2,7 +2,7 @@ import _ from 'lodash';
 import ApiConfig from './_Classes/ApiConfig';
 import Error from './_Classes/Error';
 import Image from './_Classes/Image';
-import Mdns from '../mdns';
+import Mdns from 'node-mdns-easy';
 import Receiver from './_Classes/Receiver';
 import ReceiverDisplayStatus from './_Classes/ReceiverDisplayStatus';
 import SenderApplication from './_Classes/SenderApplication';
